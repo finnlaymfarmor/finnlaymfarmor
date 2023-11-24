@@ -1,1 +1,3 @@
-<div align='center'>## Co-Founder of Fluency (www.getfluency.com.au)</div>
+<div align='center'>
+  ## Co-Founder of Fluency (www.getfluency.com.au)
+</div>
